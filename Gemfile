@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '~> 1.9.3'
+ruby '1.9.3'
 #ruby-gemset=railstutorial_rails_4_0
 #Note: tutotrial recommends Ruby 2.0.0
 
